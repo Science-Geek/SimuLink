@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='YUECHUANG|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RONGHE|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='KANGYI|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='CHUANWEI|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='BAIJIA|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='JULONG_TMR|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <QTDIR>D:\MyWork\Qt5.6.2\5.6\msvc2013_64</QTDIR>
+    <LocalDebuggerEnvironment>PATH=$(QTDIR)\bin%3bD:\MyWork\Qt5.6.2\5.6\msvc2013_64\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b"$(QTDIR)\bin%3b$(QTDIR)\bin%3b$(PATH)</LocalDebuggerEnvironment>
+  </PropertyGroup>
+</Project>
