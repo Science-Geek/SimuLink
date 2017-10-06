@@ -45,3 +45,11 @@ target_wrapper.*
 # QtCtreator CMake
 CMakeLists.txt.user*
 
+Qt_SoftSimulink.rc
+Qt_SoftSimulink.sdf
+Qt_SoftSimulink.sln
+Qt_SoftSimulink.v12.suo
+Qt_SoftSimulink.vcxproj
+Qt_SoftSimulink.vcxproj.filters
+Qt_SoftSimulink.vcxproj.user
+Qt_SoftSimulink.vcxproj.vspscc
